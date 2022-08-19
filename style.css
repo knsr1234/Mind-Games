@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+    color:white;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.games{
+    background-color: rgb(178, 190, 181,0.3);
+    margin: 100px auto;
+    width:50%;
+    height:400px;
+    border-radius: 10px;
+}
+a:link, a:visited {
+    background-color:bisque;
+    color: blue;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 30px;
+    width: 100px;
+    border-radius: 2px;
+  }
+  
+  a:hover, a:active {
+    background-color:aquamarine;
+  }
